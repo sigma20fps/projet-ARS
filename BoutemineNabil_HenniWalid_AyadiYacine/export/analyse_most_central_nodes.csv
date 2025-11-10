@@ -1,0 +1,29 @@
+NOEUDS LES PLUS CENTRAUX
+Degree Centrality:
+  Noeud 33,0.5152
+  Noeud 0,0.4848
+  Noeud 32,0.3636
+  Noeud 2,0.3030
+  Noeud 1,0.2727
+
+Betweenness Centrality:
+  Noeud 0,0.4376
+  Noeud 33,0.3041
+  Noeud 32,0.1452
+  Noeud 2,0.1437
+  Noeud 31,0.1383
+
+Closeness Centrality:
+  Noeud 0,0.5690
+  Noeud 2,0.5593
+  Noeud 33,0.5500
+  Noeud 31,0.5410
+  Noeud 8,0.5156
+
+Eigenvector Centrality:
+  Noeud 33,0.3734
+  Noeud 0,0.3555
+  Noeud 2,0.3172
+  Noeud 32,0.3087
+  Noeud 1,0.2660
+
